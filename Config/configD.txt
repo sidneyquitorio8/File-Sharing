@@ -1,0 +1,2 @@
+localhost:4002
+/Users/Sidney/Documents/C/CS470_Assignment_3/root/serverD/
